@@ -7,20 +7,19 @@ You can click the Preview link to take a look at your changes.
 
 - 😄 <b>Pronouns</b>: he/him
 - 🧑🏻‍⚕️ <b>Working</b>: Physician (Dr., M.D.)
+- 📚 <b>Specialization</b>: Public Health, Hygiene and Epidemiology
 
 - 💞️ <b>Hobbies</b>:
-  - 🎮 Gaming (PC, PS5), expecially in Co-Op 👯
+  - 🎮 Gaming (PC, PS5)
   - 🧘‍♂️ Meditating
   - 🧩 Solving puzzles
   - 📖 Reading
   - 🪵 DIY projects with woods
-  - 🌱 Cultivating
-  - 🍳 Cooking
 
 - 👀 <b>Working interests</b>: 
   - ✨ Epidemiology & Public Health
   - ✨ Health Statistics
-  - ✨ Healthcare Quality Indicators
+  - ✨ Healthcare Research and Quality
 
 - 📊 <b>Experience</b>:
   - ✨ Hospital management (Healthcare management)
