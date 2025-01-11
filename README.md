@@ -5,9 +5,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋 I'm Lorenzo
 
-- 😄 <b>Pronouns</b>: he/him
-- 🧑🏻‍⚕️ <b>Working</b>: Physician (Dr., M.D.)
-- 📚 <b>Specialization</b>: Public Health, Hygiene and Epidemiology
+- 🧑🏻‍⚕️ <b>Working</b>: Physician (Dr.)
+- 📚 <b>Specialization</b>: Hygiene, Preventive Medicine and Public Health
 
 - 💞️ <b>Hobbies</b>:
   - 🎮 Gaming (PC, PS5)
@@ -16,20 +15,18 @@ You can click the Preview link to take a look at your changes.
   - 📖 Reading
   - 🪵 DIY projects with woods
 
-- 👀 <b>Working interests</b>: 
-  - ✨ Epidemiology & Public Health
-  - ✨ Health Statistics
+- 👀 <b>Interests</b>: 
+  - ✨ Epidemiology
+  - ✨ Public Health
   - ✨ Healthcare Research and Quality
 
 - 📊 <b>Experience</b>:
-  - ✨ Hospital management (Healthcare management)
-  - ✨ Local Health Authority
-  - ✨ Epidemiology Unit & Global Health Center (Tuscany Region)
-  - ✨ Continuity of Primary Care
-  - ✨ Vaccination reasearch (Research fellow, University of Pisa)
+  - ⚡ Epidemiology
+  - ⚡ Vaccination
+  - ⚡ Local Health Authority
+  - ⚡ Hospital management (Healthcare management)
 
 <!-- Here are some ideas to get you started:
-
 
 - 👋 Hi, I’m ...
 - 👀 I’m interested in ...
